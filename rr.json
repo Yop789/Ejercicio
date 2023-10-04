@@ -1,0 +1,71 @@
+{
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": ["text", "source"],
+        "settings": {
+          "fontStyle": "italic",
+          "before": "transform: skewX(30deg);"
+        }
+      }
+    ]
+  },
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.sideBar.location": "right",
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.vertical": "auto",
+  "git.autofetch": true,
+  "editor.formatOnSave": true,
+  "indenticator.width": 1,
+  "workbench.iconTheme": "material-icon-theme",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "hediet.vscode-drawio.resizeImages": null,
+  "git.confirmSync": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Community Material Theme Ocean High Contrast",
+  "redhat.telemetry.enabled": true,
+  "boot-java.rewrite.reconcile": true,
+  "tabnine.experimentalAutoImports": true,
+  "editor.guides.indentation": false,
+  "git.suggestSmartCommit": false,
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "cSpell.language": "en,es",
+  "cSpell.userWords": ["bookface"],
+  "indenticator.color.dark": "rgba(0,0,255,0.3)",
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "editor.glyphMargin": false,
+  "editor.hideCursorInOverviewRuler": false,
+  "editor.overviewRulerBorder": false,
+  "dotnet.preferRuntimeFromSDK": true,
+  "terminal.integrated.fontFamily": "monospace",
+  "editor.fontFamily": "Victor Mono, 'Courier New', Victor Mono",
+  "editor.fontLigatures": true,
+  "liveServer.settings.donotShowInfoMsg": true //
+}
+
+// Victor Mono, 'Courier New', Victor Mono
